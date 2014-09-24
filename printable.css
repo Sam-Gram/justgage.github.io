@@ -1,0 +1,50 @@
+#doc2 {
+    margin:0 auto;
+}
+
+#inner {
+    margin:0;
+    border:none;
+    padding:10px;
+    background-color:white;
+}
+
+.yui-gf, #hd {
+    margin-bottom:5px;
+    /* margin-top:5px; */
+    /* padding-bottom:0px; */
+    border-bottom-color:black;
+}
+
+.last {
+    /* margin-bottom:0px; */
+    /* padding-bottom:10px; */
+}
+
+.normal-list li {
+    /* line-height: 14px; */
+}
+
+.hide-print {
+   display: none;
+}
+
+.show-print {
+   display: block;
+}
+
+#hd h1 {
+  font-size: 43px;
+}
+
+a {
+   color:black;
+}
+
+body {
+   color:black;
+}
+
+#ft {
+   border-color:black;
+}
