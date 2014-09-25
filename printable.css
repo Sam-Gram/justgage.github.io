@@ -1,5 +1,6 @@
 #doc2 {
     margin:0 auto;
+    width: 670px;
 }
 
 #inner {
@@ -34,8 +35,8 @@
 }
 
 #hd h1 {
-  /* font-size: 43px; */
-  font-size: 60px;
+  font-size:250%;
+  /* font-size: 60px; */
 }
 
 a {
@@ -44,8 +45,10 @@ a {
 
 body {
    color:black;
+   font-size:9pt;
 }
 
 #ft {
    border-color:black;
 }
+
