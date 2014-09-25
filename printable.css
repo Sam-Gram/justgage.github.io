@@ -11,14 +11,14 @@
 
 .yui-gf, #hd {
     margin-bottom:5px;
-    /* margin-top:5px; */
-    /* padding-bottom:0px; */
+    margin-top:5px;
+    padding-bottom:0px;
     border-bottom-color:black;
 }
 
 .last {
-    /* margin-bottom:0px; */
-    /* padding-bottom:10px; */
+    margin-bottom:0px;
+    padding-bottom:10px;
 }
 
 .normal-list li {
