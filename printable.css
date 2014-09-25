@@ -2,14 +2,17 @@ a {
    color:black;
 }
 
-body {
+body, h1, h2, h3, h4, h5, h6 {
    color:black !important;
-   font-size:9pt;
+}
+
+body {
+   font-size: 9pt;
 }
 
 #doc2 {
    margin:0 auto;
-   width: 670px;
+   width: 730px;
 }
 
 #inner {
@@ -54,7 +57,7 @@ body {
 }
 
 .yui-gf .yui-u {
-   width: 84.2%;
+   width: 87.2%;
 }
 
 .smaller {
