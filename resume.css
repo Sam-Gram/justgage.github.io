@@ -270,3 +270,7 @@ body {
    font-size: 9pt;
    line-height:2em;
 }
+
+.center {
+  text-align: center;
+}
