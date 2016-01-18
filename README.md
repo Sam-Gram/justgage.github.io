@@ -12,14 +12,16 @@ Bachelor of Science – Computer Science   3.5 GPA
 
 **Upper Division Classes**
 - Machine Learning & Data Mining
-- AI
+- Artificial Intelligence
 - Sever-Side Web development
+- Networking
+- Algorithms and Complexity
 
 ## Software Development Projects:
-**SENIOR PROJECT: Programing Language Interpreter **- Written in OCaml using Monads
-**Sudoku solver **- Written in Lisp, using backtracking and arc-consistency
-**FoodNanny **- A inventory tracking system for restaurants, made for a sponsor
-**FoodNotes **- A project created with 2 other students that tracked food allergies
+**SENIOR PROJECT: Programing Language Interpreter** - Written in OCaml using Monads
+**Sudoku solver** - Written in Lisp, using backtracking and arc-consistency
+**FoodNanny** - A inventory tracking system for restaurants, made for a sponsor
+**FoodNotes** - A project created with 2 other students that tracked food allergies
 
 Skills:
 ------
@@ -71,7 +73,6 @@ Personal Projects
 May-September 2015
 
 - An easy git style journaling application written in OCaml
-
 
 ### TextBoxes
 July 2014-August 2014
