@@ -1,2 +1,2 @@
 default:
-	pandoc README.md > index.html
+	pandoc README.md -S -s --css=style.css > index.html

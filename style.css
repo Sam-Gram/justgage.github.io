@@ -1,0 +1,10 @@
+body {
+   background-color:#eee;
+   color:#555;
+   margin:0 auto;
+   max-width: 600px;
+}
+
+h1 {
+   border-bottom: 1px solid #ccc;
+}

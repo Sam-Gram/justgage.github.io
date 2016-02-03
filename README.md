@@ -1,6 +1,7 @@
 # Gage K. Peterson's Personal website
 
-Pretty bare bones right now, however here's some interesting projects I've worked on.
+Yeah, not much here yet. Please look at my [resume](https://github.com/justgage/resume) for more information about me.
 
-Enjoy.
+sincerely,
 
+--- _Gage Peterson_
