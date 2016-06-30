@@ -5,7 +5,7 @@
 
 local config = {
     title = "Gage K. Peterson",
-    url = 'b',
+    url = '/b',
 
     force_index_page = true,
     index_page = 'Home',
