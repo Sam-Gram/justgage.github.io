@@ -10,11 +10,12 @@ local config = {
     force_index_page = true,
     index_page = 'Home',
     archive_title = 'Blog',
+    build_dir = 'public_html',
 
     envs = {
         public = {
             url = 'http://justgage.github.io',
-            build_dir = 'dist',
+            build_dir = 'public_html',
         }
     }
 }
