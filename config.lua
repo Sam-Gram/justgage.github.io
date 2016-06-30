@@ -5,17 +5,16 @@
 
 local config = {
     title = "Gage K. Peterson",
-    url = '',
+    url = 'b',
 
     force_index_page = true,
     index_page = 'Home',
     archive_title = 'Blog',
-    build_dir = 'public_html',
+    build_dir = 'b',
 
     envs = {
         public = {
-            url = 'http://justgage.github.io',
-            build_dir = 'public_html',
+            url = 'http://justgage.github.io/b/',
         }
     }
 }
