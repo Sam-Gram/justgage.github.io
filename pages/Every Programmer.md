@@ -2,8 +2,8 @@ These are things that I think every Programmer should check out:
 
 # Talks
 
-- Rick Hickeys [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy): If you do nothing else on this page **watch this talk!!!**
-- Rick Hickeys [Value of Values](https://www.infoq.com/presentations/Value-Values) makes you think twice everytime you modify a variable in place. 
+- [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy): If you do nothing else on this page **watch this talk!!!**
+- [Value of Values](https://www.infoq.com/presentations/Value-Values) makes you think twice everytime you modify a variable in place. 
 - [JavaScript: the good parts](http://www.youtube.com/watch?v=hQVTIJBZook): There's a very good chance that you're going to be writing some JavaScript sometime in your life. 'bout time you learned what it really is. 
 
 # Programming Styles
@@ -21,6 +21,7 @@ These are things that I think every Programmer should check out:
 - [Elixir](elixir-lang.org): The most friendly functional language
 - [Prolog](swi-prolog.org): This one will _bend your mind!_. 
 - [JavaScript](https://www.javascript.com/): It's everywhere, and it can be really good so long as you _do not_ use inheritance or any sort in it.
+    - [React.js](https://facebook.github.io/react/) This is the best framwork for JavaScript hands down. Far simpler than Angular and far easier to test then just about anything.
 - [Go](golang.com): Perhaps one of the best Languages focused on _less_ features. Great cocurrency. And `go fmt` is genious.
 
 # Databases
